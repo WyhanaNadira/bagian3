@@ -13,6 +13,11 @@
     height: 100vh;
     background-size: cover;
 }
+.requirements{
+    background-image: url('./assets/requirements.png');
+    height: 100vh;
+    background-size: cover;
+}
 .f-main{
     position: absolute;
 height: 73.12px;
