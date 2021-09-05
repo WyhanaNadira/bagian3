@@ -1,0 +1,24 @@
+.main-menu{
+    background-image: url('./assets/GBR1.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.f-main{
+    position: absolute;
+height: 73.12px;
+left: 9.22%;
+right: 10.47%;
+top: calc(50% - 73.12px/2 - 130.06px);
+
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 83px;
+text-align: center;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
