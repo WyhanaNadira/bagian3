@@ -8,6 +8,11 @@
     height: 100vh;
     background-size: cover;
 }
+.features{
+    background-image: url('./assets/features.jpg');
+    height: 100vh;
+    background-size: cover;
+}
 .f-main{
     position: absolute;
 height: 73.12px;
